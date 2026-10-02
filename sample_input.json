@@ -1,0 +1,9 @@
+{
+  "detections": [
+    {"box": [0, 0, 2, 2], "score": 0.95, "label": 1},
+    {"box": [0.1, 0.1, 2.1, 2.1], "score": 0.8, "label": 1},
+    {"box": [0, 0, 2, 2], "score": 0.7, "label": 2},
+    {"box": [4, 4, 5, 5], "score": 0.6, "label": 1}
+  ],
+  "threshold": 0.5
+}

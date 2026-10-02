@@ -32,6 +32,11 @@ class DetectionPostprocessTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             suppress_overlaps([], -0.1)
 
+    def test_equal_score_keeps_first_same_class_box(self) -> None:
+        first = Detection((0, 0, 2, 2), 0.8, 1)
+        second = Detection((0.1, 0.1, 2.1, 2.1), 0.8, 1)
+        self.assertEqual(suppress_overlaps([first, second]), [first])
+
 
 if __name__ == "__main__":
     unittest.main()
