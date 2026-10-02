@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 450" role="img" aria-labelledby="title description">
+<title id="title">Synthetic observation map</title>
+<desc id="description">Invented observations on a local unit square, with category colors.</desc>
+<rect width="640" height="450" fill="#f8fafc"/>
+<text x="48" y="39" font-family="sans-serif" font-size="22" fill="#17324d">Synthetic observation map</text>
+<text x="48" y="61" font-family="sans-serif" font-size="12" fill="#53677a">Arbitrary local coordinates - no geographic reference</text>
+<rect x="48" y="82" width="400" height="320" fill="#ffffff" stroke="#a3b4c4" stroke-width="2"/>
+<path d="M 148 82 V 402" stroke="#e4ebf1"/>
+<path d="M 48 162 H 448" stroke="#e4ebf1"/>
+<path d="M 248 82 V 402" stroke="#e4ebf1"/>
+<path d="M 48 242 H 448" stroke="#e4ebf1"/>
+<path d="M 348 82 V 402" stroke="#e4ebf1"/>
+<path d="M 48 322 H 448" stroke="#e4ebf1"/>
+<circle cx="96.0" cy="344.4" r="8" fill="#27866a" stroke="#ffffff" stroke-width="2"/>
+<text x="108.0" y="348.4" font-family="sans-serif" font-size="11" fill="#17324d">S01</text>
+<circle cx="160.0" cy="171.6" r="8" fill="#5470a7" stroke="#ffffff" stroke-width="2"/>
+<text x="172.0" y="175.6" font-family="sans-serif" font-size="11" fill="#17324d">S02</text>
+<circle cx="216.0" cy="302.8" r="8" fill="#27866a" stroke="#ffffff" stroke-width="2"/>
+<text x="228.0" y="306.8" font-family="sans-serif" font-size="11" fill="#17324d">S03</text>
+<circle cx="276.0" cy="216.4" r="8" fill="#bb6c2e" stroke="#ffffff" stroke-width="2"/>
+<text x="288.0" y="220.4" font-family="sans-serif" font-size="11" fill="#17324d">S04</text>
+<circle cx="352.0" cy="334.8" r="8" fill="#5470a7" stroke="#ffffff" stroke-width="2"/>
+<text x="364.0" y="338.8" font-family="sans-serif" font-size="11" fill="#17324d">S05</text>
+<circle cx="392.0" cy="152.4" r="8" fill="#27866a" stroke="#ffffff" stroke-width="2"/>
+<text x="404.0" y="156.4" font-family="sans-serif" font-size="11" fill="#17324d">S06</text>
+<circle cx="320.0" cy="130.0" r="8" fill="#bb6c2e" stroke="#ffffff" stroke-width="2"/>
+<text x="332.0" y="134.0" font-family="sans-serif" font-size="11" fill="#17324d">S07</text>
+<circle cx="176.0" cy="245.2" r="8" fill="#27866a" stroke="#ffffff" stroke-width="2"/>
+<text x="188.0" y="249.2" font-family="sans-serif" font-size="11" fill="#17324d">S08</text>
+<circle cx="487" cy="120" r="7" fill="#5470a7"/>
+<text x="503" y="124" font-family="sans-serif" font-size="13" fill="#17324d">Candidate</text>
+<circle cx="487" cy="154" r="7" fill="#27866a"/>
+<text x="503" y="158" font-family="sans-serif" font-size="13" fill="#17324d">Verified</text>
+<circle cx="487" cy="188" r="7" fill="#bb6c2e"/>
+<text x="503" y="192" font-family="sans-serif" font-size="13" fill="#17324d">Needs Review</text>
+</svg>
