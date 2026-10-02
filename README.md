@@ -28,5 +28,3 @@ The default branch is an index. Project code stays on the named branches so each
 ## Evidence and limits
 
 Every record, label, site ID, bounding box, and coordinate in these branches is invented. The map uses unit-square positions, not real geography. No client data, private instructions, original notebook, imagery, trained weights, or source archive is included. The repository shows technical approach and code quality; it does not establish measured accuracy on real data, production deployment, or a client's endorsement.
-
-For code review and test-design work, see the separate [Code QA portfolio](https://github.com/kunalaher168-coder/code-qa-portfolio). For algorithms, see [Competitive Coding](https://github.com/kunalaher168-coder/competitive-coding).
